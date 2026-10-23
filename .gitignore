@@ -1,0 +1,7 @@
+# Datos del hackathon: no se publican
+data/
+*.parquet
+stuff_plus_por_pitch.csv.gz
+out/models/
+__pycache__/
+.ipynb_checkpoints/
