@@ -1,0 +1,272 @@
+pitcher_anon_id,year,PitcherThrows,n,stuff_plus,location_plus,pitching_plus,stuff_plus_adj,xrv_per100,rv_obs_per100,whiff_per_swing,gb_rate,hard_rate,hr_per_bip,arsenal
+pitcher_00619,2024,Right,853,100.35,98.082,99.943,112.047,1.18,1.766,0.35,0.397,0.149,0.038,Recta con ride 21% · Recta con run 18% · Sweeper 14% · Slurve 12%
+pitcher_00002,2026,Right,276,92.952,96.522,99.625,105.569,0.833,1.222,0.28,0.59,0.237,0.026,Sinker 30% · Slurve 21% · Changeup 14% · Recta con run 13%
+pitcher_00682,2026,Left,329,100.227,96.478,99.602,112.503,1.763,2.859,0.365,0.56,0.34,0.02,Changeup 43% · Slider gyro 26% · Sinker 19% · Recta con cut 5%
+pitcher_00172,2026,Right,226,98.885,98.281,99.493,111.224,0.851,1.897,0.327,0.722,0.206,0.0,Slider gyro 56% · Recta con cut 14% · Slurve 10% · Sweeper 10%
+pitcher_01101,2024,Right,338,94.362,96.645,99.381,106.459,1.165,1.37,0.206,0.525,0.137,0.0,Sinker 43% · Changeup 24% · Curva 20% · Slurve 6%
+pitcher_00703,2024,Right,308,93.677,97.89,99.38,105.82,1.526,1.958,0.296,0.355,0.186,0.016,Recta con ride 30% · Recta con cut 17% · Changeup 17% · Recta con run 12%
+pitcher_00019,2025,Right,985,92.234,97.376,99.216,105.287,-0.028,0.016,0.229,0.5,0.285,0.031,Sinker 34% · Slurve 27% · Sweeper 22% · Changeup 6%
+pitcher_00562,2024,Right,501,93.548,97.484,99.064,105.7,0.52,0.702,0.321,0.419,0.218,0.035,Recta con run 28% · Sinker 24% · Sweeper 19% · Slider gyro 14%
+pitcher_00844,2024,Right,266,92.907,96.719,99.014,105.102,1.062,0.347,0.287,0.625,0.206,0.0,Sinker 29% · Slurve 19% · Changeup 11% · Sweeper 11%
+pitcher_01060,2024,Right,1190,99.487,97.081,98.949,111.242,0.841,1.508,0.337,0.463,0.205,0.04,Curva 32% · Recta con run 21% · Sinker 18% · Recta con ride 11%
+pitcher_00904,2024,Right,259,91.249,98.376,98.868,103.554,0.373,0.045,0.328,0.442,0.167,0.023,Recta con run 24% · Recta con ride 21% · Sweeper 10% · Slider gyro 10%
+pitcher_00776,2026,Left,422,92.404,96.276,98.841,105.048,1.375,0.433,0.246,0.492,0.286,0.032,Sinker 48% · Recta con run 23% · Changeup 17% · Recta con ride 8%
+pitcher_00600,2024,Right,313,93.449,99.064,98.754,105.607,0.834,1.238,0.226,0.368,0.154,0.018,Slider gyro 54% · Recta con cut 17% · Curva 16% · Changeup 10%
+pitcher_00468,2025,Right,274,99.803,97.131,98.651,112.608,1.165,1.807,0.25,0.6,0.259,0.017,Slider gyro 64% · Curva 15% · Recta con cut 12% · Sinker 3%
+pitcher_00699,2025,Right,375,90.661,97.175,98.594,103.765,0.17,1.29,0.321,0.417,0.316,0.05,Curva 30% · Recta con ride 22% · Recta con run 19% · Recta con cut 9%
+pitcher_00019,2026,Right,468,91.155,97.118,98.589,103.857,-0.605,-0.634,0.2,0.515,0.267,0.01,Sinker 44% · Slurve 20% · Sweeper 16% · Changeup 7%
+pitcher_00069,2025,Right,359,88.298,98.002,98.559,101.479,-0.702,-0.994,0.219,0.379,0.152,0.045,Recta con ride 33% · Recta con cut 31% · Sweeper 10% · Slider gyro 9%
+pitcher_00638,2026,Right,325,92.335,98.07,98.537,104.981,0.883,0.846,0.261,0.534,0.246,0.0,Curva 18% · Slider gyro 18% · Recta con cut 16% · Recta con ride 14%
+pitcher_00685,2026,Right,211,92.974,97.825,98.479,105.59,0.153,-1.125,0.244,0.483,0.214,0.034,Recta con cut 47% · Slider gyro 31% · Recta con ride 11% · Curva 8%
+pitcher_00315,2025,Right,410,93.831,96.496,98.469,106.831,2.087,2.468,0.251,0.632,0.151,0.0,Changeup 42% · Sweeper 20% · Sinker 16% · Slurve 10%
+pitcher_01018,2024,Left,577,94.283,97.65,98.449,106.386,0.573,0.285,0.272,0.414,0.14,0.009,Slider gyro 37% · Recta con cut 28% · Recta con ride 10% · Curva 8%
+pitcher_00198,2025,Right,540,92.846,96.407,98.445,105.878,0.856,1.429,0.272,0.5,0.205,0.022,Recta con ride 32% · Recta con run 28% · Sinker 10% · Changeup 10%
+pitcher_00813,2026,Right,225,92.397,97.432,98.38,105.041,-1.319,-2.09,0.165,0.486,0.243,0.054,Slider gyro 45% · Recta con cut 29% · Slurve 13% · Curva 7%
+pitcher_00361,2024,Right,297,92.808,98.093,98.352,105.009,0.487,-0.644,0.22,0.45,0.125,0.033,Slider gyro 38% · Curva 15% · Slurve 11% · Sinker 11%
+pitcher_00680,2024,Right,354,87.027,97.576,98.324,99.614,-0.353,0.809,0.258,0.333,0.149,0.04,Sinker 37% · Slider gyro 20% · Sweeper 16% · Recta con run 13%
+pitcher_00019,2024,Right,324,92.664,96.68,98.313,104.874,0.74,1.324,0.288,0.441,0.25,0.0,Sinker 32% · Slurve 23% · Sweeper 14% · Recta con run 11%
+pitcher_00553,2026,Right,205,88.792,97.716,98.286,101.605,0.953,0.009,0.202,0.465,0.195,0.047,Changeup 48% · Sinker 25% · Slider gyro 13% · Recta con cut 9%
+pitcher_00096,2024,Right,470,91.324,95.864,98.255,103.624,1.181,1.366,0.278,0.506,0.162,0.012,Sinker 39% · Changeup 30% · Slurve 11% · Curva 11%
+pitcher_00198,2026,Right,282,90.641,96.867,98.249,103.367,0.091,-0.04,0.286,0.383,0.233,0.085,Recta con ride 35% · Recta con run 21% · Slider gyro 15% · Recta con cut 11%
+pitcher_01101,2025,Right,246,88.404,96.488,98.24,101.581,-0.326,0.803,0.194,0.566,0.25,0.019,Changeup 31% · Sinker 31% · Curva 25% · Recta con run 6%
+pitcher_00138,2024,Right,471,96.705,95.758,98.178,108.646,0.778,1.447,0.33,0.426,0.271,0.029,Sinker 57% · Curva 15% · Slider gyro 10% · Recta con run 5%
+pitcher_00913,2025,Right,478,92.662,96.918,98.119,105.701,0.269,-0.132,0.264,0.481,0.263,0.038,Recta con ride 38% · Slider gyro 17% · Recta con run 17% · Recta con cut 11%
+pitcher_00096,2025,Right,365,91.28,96.213,97.99,104.364,0.227,0.227,0.19,0.573,0.282,0.0,Sinker 39% · Changeup 36% · Slurve 15% · Curva 4%
+pitcher_00841,2024,Right,246,87.887,97.822,97.961,100.417,1.3,2.678,0.203,0.519,0.146,0.019,Slider gyro 29% · Sinker 23% · Changeup 20% · Recta con run 10%
+pitcher_01073,2025,Left,217,90.785,97.166,97.931,103.885,0.369,0.98,0.255,0.324,0.294,0.0,Slider gyro 23% · Sinker 17% · Recta con run 16% · Sweeper 14%
+pitcher_01099,2026,Left,244,96.4,98.207,97.922,108.856,1.127,1.906,0.333,0.475,0.205,0.025,Slider gyro 36% · Curva 23% · Slurve 20% · Recta con cut 9%
+pitcher_00205,2024,Right,572,90.631,96.63,97.895,102.978,-0.411,-0.807,0.228,0.446,0.293,0.054,Recta con run 26% · Recta con ride 23% · Slider gyro 19% · Sweeper 10%
+pitcher_00682,2025,Left,700,93.409,95.539,97.876,106.423,0.569,0.336,0.368,0.538,0.23,0.034,Changeup 44% · Sinker 33% · Slider gyro 11% · Recta con cut 8%
+pitcher_00646,2025,Right,615,89.328,97.827,97.874,102.476,-0.551,0.194,0.22,0.536,0.313,0.032,Sinker 35% · Slider gyro 27% · Curva 10% · Changeup 9%
+pitcher_00847,2025,Left,246,87.348,97.357,97.859,100.56,0.452,0.358,0.319,0.489,0.244,0.044,Slider gyro 25% · Sinker 24% · Recta con run 15% · Changeup 14%
+pitcher_00841,2025,Right,641,88.832,97.481,97.856,101.995,-1.115,-0.779,0.214,0.585,0.248,0.059,Slider gyro 29% · Changeup 25% · Sinker 19% · Slurve 9%
+pitcher_00987,2026,Right,206,92.2,97.486,97.834,104.853,0.39,-0.633,0.24,0.4,0.312,0.029,Recta con cut 26% · Slider gyro 25% · Recta con ride 24% · Curva 13%
+pitcher_01035,2024,Right,213,87.239,97.514,97.761,99.812,-1.038,-0.312,0.255,0.2,0.28,0.057,Recta con ride 29% · Recta con run 28% · Sweeper 14% · Slider gyro 13%
+pitcher_00680,2025,Right,612,87.186,97.032,97.745,100.403,-0.787,-0.444,0.179,0.406,0.238,0.031,Sinker 44% · Slider gyro 20% · Recta con run 11% · Sweeper 11%
+pitcher_00315,2026,Right,202,92.376,96.245,97.722,105.021,0.176,-0.625,0.268,0.625,0.128,0.025,Changeup 35% · Sinker 23% · Sweeper 18% · Slider gyro 14%
+pitcher_00666,2025,Right,212,86.704,97.775,97.688,99.937,-1.803,-1.768,0.174,0.357,0.377,0.036,Recta con ride 28% · Slider gyro 19% · Recta con run 16% · Changeup 9%
+pitcher_01114,2025,Right,213,86.159,98.735,97.685,99.41,0.828,1.475,0.223,0.5,0.111,0.0,Slider gyro 39% · Recta con cut 35% · Recta con ride 8% · Sweeper 8%
+pitcher_00767,2025,Right,603,91.131,98.426,97.674,104.22,-0.012,-0.204,0.289,0.47,0.209,0.034,Changeup 46% · Slider gyro 36% · Sinker 15% · Recta con ride 1%
+pitcher_00144,2025,Right,382,89.765,97.198,97.668,102.898,-1.096,0.31,0.189,0.535,0.377,0.028,Recta con ride 32% · Recta con cut 31% · Curva 19% · Recta con run 9%
+pitcher_00208,2024,Right,278,91.676,97.037,97.608,103.952,0.553,-0.41,0.303,0.375,0.178,0.042,Slider gyro 34% · Recta con ride 33% · Recta con cut 12% · Recta con run 10%
+pitcher_00500,2025,Right,240,85.259,98.591,97.605,98.539,-0.558,-1.932,0.191,0.612,0.255,0.041,Recta con run 30% · Sinker 20% · Recta con ride 15% · Slider gyro 12%
+pitcher_00114,2025,Right,411,93.773,95.151,97.592,106.775,-0.737,-1.103,0.182,0.494,0.234,0.038,Sinker 31% · Recta con run 24% · Recta con ride 17% · Slurve 11%
+pitcher_00260,2026,Right,205,88.126,97.355,97.589,100.97,1.514,1.711,0.436,0.417,0.25,0.083,Sinker 37% · Curva 22% · Changeup 17% · Slider gyro 12%
+pitcher_00482,2024,Right,203,96.944,96.067,97.571,108.869,0.418,0.408,0.35,0.406,0.28,0.094,Recta con cut 30% · Slider gyro 22% · Recta con ride 20% · Changeup 11%
+pitcher_00319,2024,Right,546,88.511,97.585,97.531,100.999,-0.388,0.029,0.173,0.422,0.262,0.055,Recta con cut 26% · Slider gyro 25% · Recta con ride 22% · Recta con run 7%
+pitcher_00161,2025,Right,270,89.244,96.884,97.527,102.394,-0.47,-0.821,0.288,0.54,0.3,0.04,Sinker 20% · Slider gyro 20% · Slurve 14% · Sweeper 13%
+pitcher_00418,2025,Left,374,93.843,96.317,97.488,106.843,-0.322,-0.145,0.254,0.514,0.235,0.014,Sweeper 26% · Recta con ride 20% · Recta con cut 16% · Recta con run 12%
+pitcher_00851,2025,Right,331,87.508,96.117,97.487,100.715,-1.055,-0.325,0.178,0.453,0.344,0.047,Recta con run 26% · Recta con ride 20% · Sweeper 19% · Slurve 15%
+pitcher_00952,2024,Right,549,97.867,95.022,97.457,109.731,-0.259,-0.559,0.239,0.437,0.24,0.034,Sinker 37% · Recta con run 26% · Sweeper 18% · Slider gyro 9%
+pitcher_00967,2024,Right,497,90.371,96.982,97.449,102.735,-1.371,-2.79,0.276,0.381,0.221,0.083,Sweeper 25% · Recta con ride 17% · Recta con run 15% · Recta con cut 14%
+pitcher_00697,2025,Left,201,86.64,97.675,97.445,99.876,-1.999,-3.676,0.182,0.543,0.326,0.087,Sinker 42% · Slider gyro 18% · Changeup 18% · Recta con cut 12%
+pitcher_00103,2025,Right,705,86.517,97.542,97.444,99.756,-1.25,-0.649,0.194,0.427,0.301,0.063,Slider gyro 25% · Recta con run 22% · Sinker 21% · Changeup 12%
+pitcher_00403,2024,Right,585,83.073,97.59,97.441,95.924,0.445,0.658,0.332,0.406,0.211,0.04,Slider gyro 38% · Recta con cut 16% · Sweeper 12% · Recta con ride 9%
+pitcher_00338,2024,Right,743,90.87,96.632,97.436,103.2,0.257,0.741,0.291,0.381,0.213,0.045,Sinker 38% · Changeup 17% · Slider gyro 15% · Recta con run 12%
+pitcher_00069,2026,Right,211,89.766,97.533,97.436,102.533,-0.099,-1.006,0.247,0.457,0.235,0.029,Recta con cut 43% · Slider gyro 26% · Curva 14% · Recta con ride 10%
+pitcher_00236,2025,Right,548,86.75,96.473,97.429,99.982,-1.01,-1.614,0.242,0.505,0.25,0.037,Sinker 36% · Slurve 11% · Recta con run 11% · Recta con cut 10%
+pitcher_00130,2025,Left,401,90.983,95.596,97.395,104.076,0.154,-0.698,0.209,0.618,0.254,0.029,Slurve 27% · Sinker 24% · Changeup 14% · Recta con run 12%
+pitcher_00198,2024,Right,517,88.391,96.428,97.391,100.887,0.811,1.553,0.305,0.43,0.149,0.032,Recta con run 26% · Recta con ride 20% · Sinker 18% · Changeup 16%
+pitcher_00892,2025,Left,735,87.825,97.46,97.378,101.021,-0.393,-0.841,0.244,0.466,0.205,0.034,Recta con cut 50% · Sweeper 13% · Slider gyro 13% · Recta con ride 9%
+pitcher_00096,2026,Right,236,89.125,95.707,97.369,101.922,-0.254,0.308,0.22,0.568,0.238,0.0,Changeup 41% · Sinker 39% · Slurve 10% · Sweeper 8%
+pitcher_00964,2026,Right,377,85.475,97.303,97.351,98.444,0.265,-0.012,0.217,0.479,0.229,0.014,Recta con run 28% · Recta con ride 22% · Slider gyro 17% · Changeup 12%
+pitcher_00866,2026,Right,257,89.796,96.452,97.344,102.562,-0.307,0.67,0.223,0.583,0.227,0.021,Sinker 43% · Changeup 18% · Recta con run 16% · Slurve 12%
+pitcher_00134,2026,Right,426,92.038,96.293,97.343,104.698,1.369,1.544,0.291,0.41,0.115,0.0,Recta con ride 27% · Recta con cut 25% · Slider gyro 14% · Curva 13%
+pitcher_00309,2024,Right,245,87.46,96.496,97.332,100.018,1.964,1.387,0.244,0.25,0.1,0.023,Recta con run 38% · Sinker 20% · Slider gyro 14% · Sweeper 9%
+pitcher_00604,2024,Right,418,85.906,97.54,97.321,98.568,-0.287,0.754,0.259,0.398,0.171,0.032,Slider gyro 32% · Recta con cut 14% · Curva 12% · Recta con run 11%
+pitcher_00193,2025,Right,452,86.101,96.389,97.306,99.354,0.122,0.443,0.265,0.46,0.265,0.034,Sinker 41% · Changeup 30% · Recta con run 15% · Recta con ride 6%
+pitcher_00163,2025,Right,324,90.32,96.711,97.287,103.435,-0.51,0.357,0.291,0.378,0.317,0.022,Curva 23% · Recta con ride 19% · Recta con cut 13% · Slurve 11%
+pitcher_00269,2025,Right,326,83.956,97.162,97.277,97.279,-1.131,-1.664,0.234,0.4,0.309,0.057,Sinker 35% · Changeup 26% · Recta con run 13% · Slider gyro 8%
+pitcher_00659,2024,Right,356,91.672,97.223,97.254,103.948,0.436,0.471,0.244,0.492,0.17,0.017,Recta con cut 36% · Slurve 24% · Recta con ride 18% · Sweeper 9%
+pitcher_01130,2024,Right,342,88.651,97.004,97.248,101.13,-0.224,-1.108,0.248,0.388,0.185,0.03,Slider gyro 30% · Recta con run 24% · Recta con ride 20% · Sweeper 11%
+pitcher_00236,2024,Right,630,85.059,96.743,97.245,97.777,-0.015,-0.711,0.255,0.326,0.244,0.042,Sinker 30% · Slurve 28% · Changeup 11% · Slider gyro 10%
+pitcher_00571,2026,Left,272,87.088,96.274,97.229,99.982,-2.251,-3.038,0.185,0.609,0.409,0.087,Changeup 40% · Sinker 36% · Slider gyro 10% · Slurve 5%
+pitcher_00889,2024,Left,300,83.38,97.757,97.214,96.211,-0.449,0.301,0.213,0.4,0.133,0.02,Sinker 42% · Changeup 16% · Slider gyro 13% · Recta con run 13%
+pitcher_00193,2026,Right,213,86.368,96.067,97.207,99.295,1.194,1.878,0.314,0.486,0.257,0.0,Sinker 40% · Changeup 21% · Recta con run 13% · Slurve 9%
+pitcher_00258,2025,Right,393,88.024,95.964,97.191,101.214,-1.309,-0.931,0.291,0.411,0.375,0.089,Sinker 54% · Recta con run 16% · Curva 8% · Changeup 6%
+pitcher_00282,2026,Left,233,86.614,97.072,97.189,99.53,-1.181,-1.82,0.205,0.562,0.333,0.104,Sinker 30% · Sweeper 14% · Changeup 13% · Recta con run 10%
+pitcher_00542,2026,Right,525,86.633,96.77,97.188,99.547,-1.387,-1.562,0.179,0.533,0.324,0.028,Sweeper 27% · Slider gyro 20% · Recta con ride 14% · Sinker 9%
+pitcher_00597,2024,Left,202,84.44,99.227,97.157,97.2,-0.359,-0.141,0.146,0.42,0.2,0.04,Slider gyro 60% · Changeup 23% · Sweeper 8% · Slurve 6%
+pitcher_00516,2025,Right,243,87.893,97.779,97.136,101.087,-0.463,-0.989,0.154,0.509,0.302,0.038,Slider gyro 26% · Recta con ride 24% · Recta con cut 21% · Sweeper 8%
+pitcher_00622,2024,Right,380,85.693,97.706,97.135,98.369,0.592,0.558,0.199,0.416,0.25,0.0,Slider gyro 22% · Recta con cut 19% · Recta con ride 18% · Sinker 16%
+pitcher_00848,2025,Right,315,87.157,96.501,97.121,100.375,-1.028,-1.212,0.259,0.288,0.319,0.058,Recta con run 27% · Recta con ride 24% · Slider gyro 23% · Sinker 12%
+pitcher_00103,2024,Right,538,85.955,97.534,97.119,98.614,0.093,0.142,0.209,0.414,0.213,0.03,Sinker 27% · Recta con run 17% · Changeup 15% · Slider gyro 14%
+pitcher_00581,2025,Right,465,86.595,97.913,97.105,99.832,0.137,0.893,0.26,0.329,0.141,0.053,Sinker 21% · Recta con run 15% · Slider gyro 14% · Sweeper 13%
+pitcher_00660,2024,Right,274,89.095,96.72,97.094,101.544,-1.348,-0.966,0.269,0.277,0.25,0.0,Sinker 32% · Recta con run 19% · Sweeper 18% · Slider gyro 16%
+pitcher_00440,2024,Left,280,88.43,96.821,97.084,100.924,0.212,1.093,0.193,0.509,0.319,0.018,Sinker 37% · Curva 24% · Recta con run 14% · Slider gyro 8%
+pitcher_00087,2024,Left,277,88.919,96.514,97.078,101.379,-0.148,0.508,0.277,0.373,0.227,0.078,Slider gyro 30% · Curva 16% · Recta con cut 14% · Recta con ride 13%
+pitcher_00577,2025,Right,312,94.534,95.354,97.06,107.511,-0.215,-1.348,0.331,0.536,0.196,0.018,Sinker 30% · Sweeper 24% · Slider gyro 13% · Recta con cut 11%
+pitcher_00292,2024,Right,382,87.1,97.239,97.003,99.682,0.149,0.184,0.215,0.373,0.246,0.06,Sinker 19% · Curva 15% · Recta con cut 13% · Recta con ride 13%
+pitcher_00345,2026,Left,411,84.309,97.202,97.001,97.333,-0.206,0.638,0.188,0.338,0.19,0.025,Recta con run 39% · Sinker 16% · Recta con ride 12% · Slider gyro 8%
+pitcher_00343,2025,Left,443,92.016,96.997,96.995,105.076,0.36,0.058,0.327,0.5,0.214,0.056,Recta con ride 27% · Slurve 26% · Recta con cut 26% · Sweeper 9%
+pitcher_00403,2025,Right,406,85.031,97.566,96.991,98.319,-1.643,-2.433,0.21,0.48,0.384,0.093,Slider gyro 26% · Recta con cut 16% · Recta con ride 13% · Sweeper 11%
+pitcher_00157,2024,Right,203,84.381,97.78,96.991,97.145,-1.43,-0.729,0.202,0.44,0.244,0.06,Sinker 33% · Slider gyro 16% · Changeup 13% · Curva 11%
+pitcher_00404,2026,Right,262,87.472,96.765,96.988,100.347,-0.021,-0.465,0.339,0.439,0.293,0.073,Recta con ride 23% · Sweeper 19% · Slurve 14% · Recta con run 13%
+pitcher_00743,2025,Right,241,87.411,95.01,96.982,100.621,-0.553,-1.069,0.2,0.348,0.267,0.065,Changeup 47% · Sweeper 27% · Slider gyro 9% · Sinker 5%
+pitcher_00948,2024,Right,492,87.628,96.315,96.981,100.175,0.435,-0.275,0.282,0.389,0.237,0.014,Recta con run 33% · Sinker 23% · Recta con ride 23% · Slider gyro 12%
+pitcher_00705,2024,Right,388,85.186,97.145,96.981,97.896,-0.408,-1.033,0.268,0.354,0.302,0.015,Recta con cut 31% · Recta con ride 25% · Changeup 14% · Curva 10%
+pitcher_00818,2026,Right,281,88.546,96.18,96.978,101.37,-0.103,-0.884,0.24,0.574,0.244,0.043,Recta con run 20% · Curva 18% · Sinker 18% · Recta con ride 16%
+pitcher_00072,2024,Right,913,88.139,97.701,96.95,100.652,-0.072,0.112,0.194,0.421,0.207,0.032,Recta con cut 27% · Slider gyro 19% · Curva 16% · Sweeper 11%
+pitcher_00292,2026,Right,587,84.878,97.245,96.929,97.875,-0.603,-0.728,0.243,0.541,0.22,0.028,Sinker 21% · Changeup 15% · Curva 13% · Slider gyro 12%
+pitcher_00128,2024,Right,336,85.214,96.288,96.925,97.922,0.051,-1.379,0.261,0.478,0.237,0.075,Sinker 38% · Slider gyro 25% · Changeup 14% · Recta con run 9%
+pitcher_00053,2024,Left,355,91.539,95.807,96.914,103.824,-0.053,0.263,0.365,0.314,0.265,0.059,Recta con ride 25% · Slider gyro 21% · Recta con run 12% · Curva 12%
+pitcher_00697,2026,Left,222,87.707,96.315,96.912,100.571,-0.014,1.484,0.195,0.604,0.239,0.062,Sinker 45% · Changeup 14% · Recta con ride 12% · Slider gyro 12%
+pitcher_00904,2026,Right,496,83.943,96.651,96.905,96.984,-1.778,-2.061,0.272,0.351,0.333,0.096,Recta con run 24% · Recta con ride 22% · Sweeper 17% · Slider gyro 10%
+pitcher_00519,2025,Right,361,88.094,97.03,96.889,101.282,-0.092,-0.346,0.216,0.479,0.169,0.027,Slider gyro 19% · Recta con ride 17% · Changeup 17% · Recta con run 15%
+pitcher_00629,2025,Left,250,89.608,96.394,96.865,102.746,-0.379,-1.11,0.237,0.659,0.256,0.023,Sinker 27% · Curva 21% · Changeup 18% · Recta con ride 9%
+pitcher_00217,2024,Left,342,90.338,97.08,96.862,102.704,-0.469,-0.427,0.27,0.441,0.169,0.044,Slider gyro 46% · Recta con cut 20% · Sinker 9% · Recta con ride 8%
+pitcher_00904,2025,Right,953,84.495,97.538,96.841,97.8,-0.582,-0.016,0.23,0.446,0.275,0.043,Recta con run 25% · Slider gyro 17% · Sweeper 16% · Sinker 14%
+pitcher_01032,2026,Left,305,84.458,96.851,96.836,97.475,-1.225,0.354,0.171,0.279,0.259,0.049,Recta con run 21% · Recta con ride 19% · Slider gyro 13% · Sweeper 12%
+pitcher_00681,2025,Right,275,86.051,97.73,96.813,99.306,-1.568,-0.45,0.15,0.452,0.377,0.048,Slider gyro 33% · Recta con run 20% · Sweeper 14% · Recta con ride 12%
+pitcher_00448,2025,Right,325,84.732,96.753,96.797,98.029,-2.856,-3.496,0.21,0.453,0.413,0.078,Sinker 37% · Slider gyro 20% · Recta con run 18% · Changeup 17%
+pitcher_00605,2024,Right,276,87.254,95.749,96.795,99.826,-0.367,-0.51,0.214,0.529,0.224,0.0,Slider gyro 30% · Sinker 24% · Recta con cut 13% · Recta con run 12%
+pitcher_00430,2024,Left,343,94.331,96.573,96.79,106.43,-2.119,-2.489,0.247,0.5,0.188,0.054,Slider gyro 62% · Recta con cut 15% · Curva 10% · Slurve 6%
+pitcher_00702,2025,Right,721,89.099,96.988,96.767,102.254,-0.36,-0.323,0.236,0.349,0.261,0.063,Recta con ride 27% · Recta con cut 26% · Slider gyro 19% · Sweeper 15%
+pitcher_00759,2024,Right,483,88.298,95.312,96.755,100.8,-0.917,-0.535,0.242,0.457,0.266,0.057,Sinker 50% · Recta con run 12% · Slider gyro 10% · Sweeper 9%
+pitcher_00829,2025,Right,213,88.019,96.15,96.755,101.209,-0.263,0.5,0.253,0.545,0.344,0.03,Changeup 41% · Slider gyro 23% · Sinker 16% · Slurve 10%
+pitcher_00334,2024,Right,351,85.78,95.669,96.752,98.451,-1.449,-2.209,0.243,0.275,0.279,0.072,Recta con run 31% · Sinker 19% · Recta con cut 13% · Slider gyro 12%
+pitcher_00327,2025,Right,586,88.697,96.584,96.743,101.865,-0.068,0.114,0.242,0.485,0.255,0.01,Changeup 30% · Sinker 19% · Slurve 18% · Slider gyro 16%
+pitcher_00958,2024,Right,810,84.942,97.094,96.7,97.668,-1.205,-1.176,0.19,0.309,0.252,0.047,Sinker 53% · Slider gyro 11% · Changeup 10% · Sweeper 7%
+pitcher_00892,2024,Left,407,84.919,97.655,96.694,97.647,-0.774,-0.071,0.235,0.325,0.284,0.036,Recta con cut 43% · Slider gyro 17% · Sweeper 14% · Recta con ride 12%
+pitcher_00178,2025,Right,230,86.535,97.576,96.685,99.774,-1.467,-2.603,0.219,0.286,0.255,0.041,Slider gyro 38% · Recta con cut 35% · Curva 9% · Sweeper 7%
+pitcher_00597,2025,Left,223,84.252,98.022,96.683,97.566,-1.113,-0.558,0.257,0.588,0.286,0.0,Slider gyro 52% · Changeup 32% · Sweeper 7% · Slurve 5%
+pitcher_00767,2026,Right,219,88.922,97.118,96.675,101.729,-1.215,-1.756,0.284,0.308,0.27,0.128,Changeup 43% · Slider gyro 29% · Sinker 24% · Recta con cut 1%
+pitcher_00573,2024,Right,370,85.396,96.393,96.656,98.092,-0.645,-0.691,0.299,0.26,0.225,0.04,Recta con ride 32% · Recta con run 22% · Slurve 11% · Recta con cut 9%
+pitcher_00866,2025,Right,432,86.316,96.487,96.641,99.562,-1.503,-1.347,0.191,0.526,0.223,0.063,Sinker 28% · Recta con run 19% · Changeup 19% · Sweeper 15%
+pitcher_00144,2024,Right,289,90.748,96.333,96.635,103.086,0.559,1.134,0.226,0.441,0.234,0.015,Curva 28% · Recta con ride 23% · Recta con cut 21% · Recta con run 12%
+pitcher_00361,2026,Right,467,86.201,97.254,96.609,99.135,0.026,0.584,0.217,0.425,0.277,0.034,Sinker 20% · Recta con cut 18% · Slurve 13% · Changeup 12%
+pitcher_00083,2025,Right,281,87.641,95.091,96.607,100.843,-0.182,-0.456,0.275,0.465,0.326,0.07,Sinker 54% · Slider gyro 14% · Recta con run 13% · Changeup 9%
+pitcher_00319,2025,Right,361,83.593,97.576,96.595,96.928,-1.716,-2.434,0.172,0.494,0.216,0.039,Recta con cut 35% · Slider gyro 20% · Sweeper 15% · Curva 10%
+pitcher_00194,2024,Left,261,90.647,95.917,96.588,102.992,-0.926,-2.319,0.291,0.385,0.146,0.0,Slider gyro 18% · Sinker 16% · Recta con cut 13% · Slurve 13%
+pitcher_00303,2025,Left,275,85.076,97.354,96.584,98.362,-0.015,0.017,0.148,0.418,0.208,0.018,Sinker 19% · Curva 17% · Recta con ride 17% · Recta con run 16%
+pitcher_00303,2024,Left,247,85.318,97.014,96.583,98.019,-1.102,-1.303,0.311,0.444,0.297,0.067,Recta con ride 18% · Slider gyro 17% · Recta con cut 12% · Slurve 11%
+pitcher_00180,2024,Right,483,84.508,96.638,96.571,97.263,-1.231,-1.286,0.222,0.448,0.329,0.023,Sinker 44% · Changeup 26% · Slider gyro 23% · Sweeper 3%
+pitcher_00122,2024,Right,371,87.052,97.371,96.567,99.637,0.314,0.513,0.251,0.339,0.172,0.032,Sweeper 27% · Recta con cut 19% · Recta con ride 13% · Changeup 10%
+pitcher_00778,2024,Left,480,86.321,98.168,96.564,98.955,0.449,0.598,0.202,0.429,0.152,0.045,Slider gyro 43% · Recta con cut 15% · Curva 13% · Changeup 11%
+pitcher_00534,2025,Right,528,84.285,97.697,96.56,97.597,-0.963,-1.335,0.18,0.412,0.228,0.059,Recta con cut 22% · Recta con ride 22% · Slider gyro 12% · Recta con run 11%
+pitcher_00331,2024,Right,412,86.368,96.622,96.558,98.999,0.538,0.767,0.161,0.441,0.181,0.036,Sinker 55% · Recta con run 15% · Recta con ride 8% · Changeup 8%
+pitcher_00470,2024,Left,626,87.204,97.125,96.551,99.779,0.031,-0.582,0.272,0.456,0.223,0.061,Slider gyro 24% · Changeup 18% · Recta con cut 17% · Recta con ride 16%
+pitcher_00916,2024,Right,246,88.125,96.604,96.545,100.639,-0.271,-0.978,0.212,0.439,0.378,0.024,Slider gyro 45% · Changeup 34% · Sweeper 13% · Sinker 4%
+pitcher_00800,2024,Left,406,85.586,97.317,96.537,98.269,-0.689,-0.625,0.21,0.379,0.225,0.032,Slider gyro 18% · Sinker 16% · Recta con cut 15% · Recta con ride 14%
+pitcher_00377,2025,Left,742,85.436,96.714,96.535,98.71,-0.588,-0.592,0.186,0.595,0.353,0.039,Sinker 26% · Recta con ride 25% · Recta con run 17% · Curva 14%
+pitcher_00106,2025,Right,615,87.371,95.547,96.534,100.582,-0.752,-0.923,0.187,0.411,0.218,0.031,Sinker 31% · Recta con run 27% · Slurve 18% · Recta con ride 9%
+pitcher_01032,2024,Left,500,85.089,96.704,96.499,97.805,-1.159,-1.669,0.183,0.343,0.222,0.046,Recta con run 23% · Changeup 16% · Recta con ride 15% · Sinker 12%
+pitcher_00569,2026,Right,516,90.731,95.732,96.475,103.453,-0.713,-1.019,0.17,0.583,0.31,0.048,Sweeper 21% · Sinker 20% · Slurve 18% · Changeup 15%
+pitcher_00787,2026,Right,265,91.964,94.993,96.457,104.628,-2.704,-2.886,0.191,0.463,0.316,0.122,Sweeper 29% · Sinker 26% · Changeup 11% · Recta con cut 9%
+pitcher_00236,2026,Right,621,85.912,95.997,96.453,98.86,-0.973,-1.441,0.21,0.5,0.286,0.054,Sinker 36% · Changeup 16% · Slider gyro 15% · Recta con cut 10%
+pitcher_00776,2025,Left,726,86.56,95.512,96.446,99.798,-0.366,-0.497,0.24,0.515,0.278,0.038,Sinker 50% · Recta con run 26% · Changeup 11% · Recta con ride 8%
+pitcher_00167,2026,Right,214,85.441,97.348,96.419,98.412,-1.397,-2.444,0.243,0.55,0.342,0.05,Slider gyro 28% · Recta con cut 21% · Recta con ride 17% · Changeup 12%
+pitcher_00026,2025,Left,458,86.295,96.909,96.417,99.542,-0.188,-0.616,0.181,0.505,0.242,0.032,Recta con cut 28% · Recta con ride 26% · Slider gyro 21% · Recta con run 8%
+pitcher_00953,2024,Right,359,84.635,97.367,96.411,97.382,-1.753,-2.565,0.301,0.344,0.305,0.109,Slider gyro 43% · Recta con ride 20% · Recta con cut 13% · Recta con run 12%
+pitcher_00756,2024,Right,349,88.259,96.444,96.389,100.764,0.129,0.962,0.25,0.494,0.129,0.0,Sinker 36% · Curva 30% · Changeup 14% · Recta con run 9%
+pitcher_00723,2024,Right,868,85.001,96.27,96.381,97.724,-1.423,-1.073,0.28,0.411,0.331,0.048,Sinker 38% · Sweeper 20% · Recta con run 16% · Slurve 7%
+pitcher_00401,2025,Left,272,81.531,95.981,96.368,94.933,-0.846,0.136,0.237,0.304,0.341,0.043,Sinker 54% · Changeup 20% · Slider gyro 16% · Recta con run 4%
+pitcher_00519,2024,Right,526,87.263,96.976,96.36,99.834,-0.15,0.788,0.313,0.482,0.218,0.024,Slider gyro 19% · Recta con ride 17% · Changeup 15% · Sinker 13%
+pitcher_00812,2025,Left,455,82.417,98.141,96.336,95.79,-1.138,0.077,0.18,0.439,0.247,0.031,Recta con ride 27% · Recta con cut 17% · Sweeper 13% · Slider gyro 11%
+pitcher_00954,2026,Right,281,81.813,97.014,96.328,94.954,-1.48,-1.61,0.216,0.491,0.286,0.035,Recta con ride 23% · Sinker 18% · Recta con cut 16% · Changeup 15%
+pitcher_00478,2025,Left,366,88.89,97.004,96.31,102.052,0.665,0.111,0.344,0.448,0.179,0.034,Slider gyro 24% · Curva 19% · Recta con run 11% · Sweeper 11%
+pitcher_00373,2024,Right,255,87.48,95.71,96.289,100.037,0.178,1.179,0.231,0.449,0.25,0.041,Changeup 41% · Sinker 22% · Sweeper 18% · Slider gyro 17%
+pitcher_00756,2025,Right,317,86.555,96.811,96.286,99.793,-0.413,-0.465,0.228,0.459,0.311,0.016,Sinker 40% · Curva 22% · Recta con run 18% · Changeup 8%
+pitcher_00978,2025,Right,245,89.631,94.948,96.277,102.768,0.056,-0.146,0.211,0.357,0.3,0.024,Recta con ride 27% · Recta con run 20% · Recta con cut 14% · Sinker 10%
+pitcher_00559,2024,Right,357,86.633,96.01,96.247,99.246,-0.715,-1.323,0.26,0.328,0.089,0.033,Recta con ride 29% · Sweeper 20% · Recta con run 15% · Slurve 9%
+pitcher_00646,2024,Right,254,83.912,97.085,96.245,96.707,-0.962,0.611,0.165,0.426,0.326,0.037,Sinker 42% · Slider gyro 22% · Changeup 11% · Recta con run 9%
+pitcher_00902,2025,Right,203,86.615,95.425,96.235,99.851,-1.894,-0.411,0.224,0.525,0.179,0.025,Recta con ride 30% · Recta con cut 25% · Changeup 12% · Recta con run 11%
+pitcher_00227,2025,Left,233,86.784,96.487,96.183,100.015,-0.61,0.284,0.186,0.509,0.25,0.018,Recta con ride 21% · Slider gyro 19% · Recta con run 14% · Recta con cut 14%
+pitcher_01023,2025,Right,262,83.105,96.121,96.17,96.456,-0.887,-0.87,0.224,0.489,0.279,0.022,Sinker 35% · Changeup 18% · Recta con run 13% · Slider gyro 13%
+pitcher_00710,2026,Right,256,81.03,97.289,96.169,94.208,-1.848,-2.044,0.209,0.459,0.254,0.066,Sinker 38% · Curva 23% · Recta con run 12% · Slurve 10%
+pitcher_00976,2024,Left,476,85.049,95.994,96.168,97.768,-0.738,-1.086,0.233,0.326,0.26,0.035,Slurve 33% · Recta con cut 25% · Curva 13% · Recta con ride 11%
+pitcher_00495,2025,Right,752,81.75,96.694,96.161,95.145,-1.418,-2.023,0.189,0.483,0.309,0.084,Recta con ride 25% · Recta con run 22% · Slurve 20% · Recta con cut 8%
+pitcher_00439,2024,Right,209,87.133,96.345,96.132,99.713,0.066,-0.652,0.129,0.5,0.222,0.0,Sweeper 19% · Sinker 18% · Slurve 15% · Recta con run 14%
+pitcher_01084,2024,Right,233,81.393,97.325,96.13,94.356,-2.207,-2.299,0.211,0.429,0.296,0.054,Sinker 47% · Changeup 17% · Recta con run 13% · Slider gyro 11%
+pitcher_00924,2025,Right,244,81.53,95.97,96.129,94.932,-0.039,1.134,0.246,0.477,0.205,0.045,Sinker 36% · Recta con run 18% · Slurve 17% · Changeup 9%
+pitcher_00186,2025,Right,350,78.465,96.433,96.117,91.967,-1.723,-1.487,0.195,0.5,0.25,0.042,Changeup 37% · Sinker 29% · Slider gyro 17% · Sweeper 12%
+pitcher_00292,2025,Right,382,86.226,96.473,96.115,99.475,-0.719,-2.273,0.151,0.462,0.247,0.012,Sinker 21% · Changeup 16% · Curva 14% · Slider gyro 11%
+pitcher_00125,2024,Right,666,82.526,96.755,96.078,95.413,-1.054,-1.3,0.193,0.338,0.22,0.052,Sinker 60% · Slurve 10% · Recta con run 7% · Sweeper 6%
+pitcher_01044,2025,Right,314,85.028,96.493,96.069,98.316,-0.097,-0.623,0.232,0.642,0.149,0.045,Sinker 45% · Changeup 13% · Sweeper 11% · Slider gyro 11%
+pitcher_00660,2025,Right,201,86.744,96.298,96.063,99.975,-1.105,-1.553,0.219,0.4,0.25,0.05,Sinker 47% · Changeup 21% · Slider gyro 13% · Recta con run 8%
+pitcher_00338,2025,Right,518,87.715,95.948,96.046,100.915,-1.281,-1.353,0.258,0.417,0.323,0.062,Sinker 34% · Recta con run 17% · Slider gyro 14% · Changeup 12%
+pitcher_00188,2025,Right,254,83.708,96.826,96.044,97.039,-2.027,-3.789,0.128,0.326,0.341,0.13,Recta con cut 37% · Recta con ride 19% · Slider gyro 15% · Sweeper 8%
+pitcher_00767,2024,Right,579,87.318,96.845,95.961,99.885,-0.877,-0.943,0.23,0.353,0.175,0.025,Changeup 39% · Slider gyro 24% · Sinker 22% · Slurve 10%
+pitcher_00753,2024,Right,220,87.957,95.614,95.956,100.482,-2.544,-2.8,0.2,0.412,0.344,0.118,Sinker 31% · Recta con run 18% · Changeup 17% · Curva 12%
+pitcher_00558,2025,Right,261,91.365,94.36,95.954,104.446,-0.274,-1.445,0.242,0.514,0.189,0.027,Sinker 25% · Slurve 19% · Changeup 18% · Recta con ride 15%
+pitcher_00999,2025,Right,310,81.807,96.715,95.953,95.2,-0.243,-0.108,0.172,0.393,0.22,0.049,Sinker 42% · Sweeper 17% · Recta con run 13% · Changeup 11%
+pitcher_01134,2025,Right,593,85.892,96.09,95.946,99.152,-0.899,-0.628,0.223,0.636,0.248,0.055,Sinker 26% · Slider gyro 23% · Recta con run 14% · Changeup 13%
+pitcher_00190,2024,Left,419,88.754,95.634,95.929,101.226,-0.475,-0.243,0.21,0.575,0.229,0.025,Sinker 53% · Changeup 24% · Slider gyro 16% · Recta con run 4%
+pitcher_00882,2024,Right,242,83.226,96.623,95.911,96.066,-0.763,-0.869,0.235,0.424,0.391,0.017,Slurve 25% · Recta con cut 16% · Sinker 14% · Recta con ride 12%
+pitcher_00103,2026,Right,438,83.841,96.869,95.908,96.887,-0.44,0.398,0.141,0.494,0.235,0.057,Recta con run 24% · Sinker 18% · Recta con ride 16% · Slider gyro 14%
+pitcher_00736,2024,Left,445,83.114,95.893,95.889,95.962,-0.372,0.126,0.256,0.365,0.278,0.047,Recta con run 31% · Slider gyro 18% · Recta con ride 17% · Sinker 9%
+pitcher_00737,2025,Right,675,82.785,97.08,95.871,96.146,-0.867,-0.65,0.164,0.532,0.214,0.044,Sinker 22% · Changeup 19% · Recta con cut 14% · Slurve 11%
+pitcher_00254,2024,Left,251,85.052,96.414,95.857,97.77,-2.137,-1.468,0.138,0.294,0.357,0.02,Sinker 34% · Slurve 18% · Recta con run 14% · Changeup 14%
+pitcher_00610,2025,Right,254,85.201,95.269,95.833,98.483,-2.013,-1.276,0.161,0.519,0.278,0.019,Sinker 33% · Slider gyro 25% · Recta con run 16% · Changeup 7%
+pitcher_00969,2024,Left,297,84.376,97.795,95.831,97.14,-0.838,-2.22,0.221,0.434,0.208,0.075,Slider gyro 60% · Curva 11% · Slurve 11% · Recta con cut 11%
+pitcher_00401,2026,Left,352,83.977,95.82,95.818,97.017,0.163,-0.36,0.182,0.386,0.288,0.014,Sinker 51% · Changeup 22% · Slider gyro 11% · Sweeper 7%
+pitcher_00714,2024,Right,246,86.794,95.852,95.817,99.397,-0.546,0.108,0.215,0.41,0.257,0.051,Sinker 38% · Recta con run 23% · Changeup 8% · Recta con ride 7%
+pitcher_00983,2024,Left,204,78.625,97.532,95.793,91.773,-0.707,0.679,0.255,0.292,0.273,0.021,Recta con run 23% · Sinker 21% · Slider gyro 16% · Changeup 16%
+pitcher_00737,2024,Right,296,82.994,97.308,95.784,95.85,-0.611,-2.067,0.132,0.338,0.175,0.042,Sinker 26% · Recta con cut 17% · Changeup 15% · Slurve 13%
+pitcher_01033,2026,Left,271,87.876,95.844,95.784,100.732,-1.665,-1.227,0.198,0.56,0.255,0.08,Sinker 28% · Recta con ride 17% · Slider gyro 13% · Changeup 11%
+pitcher_00436,2024,Right,393,82.373,96.825,95.776,95.27,-1.645,-1.503,0.22,0.45,0.257,0.062,Sinker 37% · Changeup 24% · Sweeper 17% · Slider gyro 11%
+pitcher_00791,2026,Left,264,86.108,94.977,95.764,99.047,-0.228,-1.807,0.244,0.533,0.333,0.022,Sinker 47% · Changeup 27% · Slider gyro 21% · Curva 2%
+pitcher_00503,2026,Right,224,85.174,96.521,95.761,98.157,-1.989,-2.327,0.202,0.459,0.333,0.081,Sinker 43% · Changeup 22% · Slider gyro 9% · Recta con run 6%
+pitcher_00260,2025,Right,450,86.024,95.733,95.761,99.28,-0.035,-0.097,0.246,0.558,0.277,0.047,Sinker 54% · Changeup 20% · Curva 13% · Slider gyro 10%
+pitcher_00180,2025,Right,242,86.212,95.895,95.758,99.462,-2.228,-1.345,0.11,0.405,0.268,0.048,Sinker 42% · Changeup 29% · Slider gyro 21% · Sweeper 3%
+pitcher_00636,2026,Right,487,85.4,96.576,95.756,98.373,-0.204,-0.588,0.218,0.505,0.326,0.03,Sinker 28% · Changeup 19% · Slider gyro 18% · Sweeper 11%
+pitcher_00944,2025,Right,247,84.746,96.093,95.732,98.044,-1.332,0.029,0.187,0.535,0.395,0.047,Slider gyro 28% · Recta con ride 20% · Changeup 14% · Sinker 12%
+pitcher_00664,2026,Right,413,83.383,96.259,95.727,96.451,-0.873,-0.861,0.151,0.556,0.268,0.04,Sinker 50% · Changeup 14% · Recta con run 13% · Slider gyro 8%
+pitcher_00770,2024,Right,408,79.869,97.463,95.71,92.934,-0.761,0.285,0.165,0.354,0.213,0.012,Changeup 23% · Recta con ride 21% · Sweeper 16% · Sinker 13%
+pitcher_00331,2025,Right,360,84.003,95.958,95.7,97.324,-0.824,0.462,0.188,0.419,0.316,0.0,Sinker 45% · Recta con run 13% · Recta con ride 13% · Recta con cut 9%
+pitcher_00938,2026,Right,230,85.192,96.148,95.699,98.174,-1.55,-0.012,0.24,0.532,0.267,0.021,Recta con ride 26% · Slider gyro 17% · Recta con run 17% · Recta con cut 14%
+pitcher_00586,2025,Left,284,87.858,97.646,95.697,101.053,0.178,0.558,0.277,0.348,0.283,0.065,Slider gyro 34% · Sweeper 27% · Recta con cut 10% · Slurve 8%
+pitcher_00123,2024,Right,555,87.044,96.188,95.687,99.63,-0.625,-0.421,0.262,0.32,0.284,0.052,Recta con ride 27% · Recta con cut 18% · Sweeper 15% · Slurve 15%
+pitcher_00426,2025,Left,293,80.697,96.369,95.667,94.126,-1.408,-1.899,0.154,0.417,0.311,0.125,Sinker 48% · Recta con run 16% · Changeup 14% · Recta con ride 10%
+pitcher_00326,2026,Right,447,83.303,95.157,95.667,96.374,-1.143,-1.241,0.271,0.481,0.28,0.026,Changeup 53% · Sinker 24% · Sweeper 11% · Slider gyro 7%
+pitcher_00426,2024,Left,268,79.907,96.068,95.66,92.969,-0.716,-1.65,0.224,0.333,0.271,0.037,Sinker 41% · Recta con run 18% · Changeup 16% · Curva 11%
+pitcher_00247,2025,Right,246,86.044,95.494,95.653,99.299,-0.968,-0.598,0.252,0.429,0.209,0.0,Sinker 20% · Recta con cut 18% · Recta con ride 15% · Slider gyro 13%
+pitcher_00281,2024,Right,207,82.184,96.013,95.64,95.095,-0.031,-1.931,0.269,0.55,0.194,0.05,Sinker 44% · Recta con run 16% · Changeup 12% · Slider gyro 9%
+pitcher_00860,2026,Right,202,90.109,95.222,95.615,102.86,-1.572,-3.14,0.216,0.545,0.25,0.061,Recta con cut 32% · Recta con ride 25% · Sweeper 19% · Slider gyro 11%
+pitcher_00723,2025,Right,260,85.255,95.445,95.606,98.535,-2.013,-0.606,0.171,0.545,0.349,0.0,Sinker 35% · Changeup 15% · Recta con run 14% · Sweeper 13%
+pitcher_01051,2025,Right,351,82.844,96.353,95.601,96.203,-0.667,-1.561,0.183,0.427,0.315,0.013,Recta con ride 26% · Recta con run 20% · Slider gyro 16% · Sweeper 12%
+pitcher_00127,2026,Right,213,84.166,96.526,95.567,97.197,-1.371,-1.331,0.202,0.432,0.278,0.054,Sinker 29% · Slider gyro 24% · Changeup 12% · Sweeper 10%
+pitcher_00800,2025,Left,227,83.998,96.724,95.564,97.32,-1.404,-1.942,0.155,0.467,0.267,0.022,Slider gyro 18% · Changeup 15% · Recta con ride 15% · Recta con run 14%
+pitcher_00130,2026,Left,227,87.591,94.862,95.561,100.46,-2.208,-4.115,0.267,0.525,0.308,0.075,Changeup 30% · Sinker 25% · Recta con ride 13% · Sweeper 10%
+pitcher_00461,2025,Right,293,82.941,96.551,95.536,96.297,-2.808,-1.736,0.208,0.333,0.309,0.133,Sinker 46% · Changeup 24% · Slider gyro 14% · Recta con run 10%
+pitcher_00205,2025,Right,252,89.848,95.038,95.519,102.979,-1.756,-2.254,0.181,0.474,0.241,0.07,Recta con run 31% · Sinker 19% · Slider gyro 14% · Recta con ride 13%
+pitcher_00990,2025,Right,407,86.436,95.403,95.515,99.678,-0.835,-1.374,0.178,0.5,0.286,0.023,Sinker 25% · Recta con run 23% · Recta con ride 17% · Slider gyro 13%
+pitcher_00338,2026,Right,315,87.872,95.281,95.512,100.728,-2.749,-1.625,0.229,0.47,0.312,0.091,Sinker 36% · Changeup 22% · Slider gyro 14% · Recta con run 12%
+pitcher_00209,2024,Right,342,84.093,96.498,95.502,96.876,-0.262,-1.221,0.193,0.456,0.161,0.029,Sinker 20% · Sweeper 16% · Recta con ride 16% · Slurve 11%
+pitcher_00145,2025,Left,235,82.915,96.589,95.492,96.272,-1.88,-1.178,0.202,0.34,0.196,0.038,Recta con ride 20% · Changeup 19% · Recta con run 17% · Slurve 14%
+pitcher_00373,2025,Right,244,85.125,95.323,95.472,98.41,-1.512,-2.02,0.217,0.479,0.255,0.042,Changeup 33% · Sinker 30% · Sweeper 21% · Slider gyro 8%
+pitcher_01134,2026,Right,462,85.329,96.195,95.469,98.305,-0.575,-0.151,0.253,0.409,0.261,0.032,Sinker 36% · Changeup 26% · Slider gyro 14% · Recta con cut 6%
+pitcher_00932,2025,Right,333,79.388,97.117,95.467,92.86,-1.61,-0.08,0.145,0.438,0.366,0.022,Recta con ride 20% · Sinker 19% · Recta con run 14% · Slider gyro 13%
+pitcher_00974,2025,Right,421,84.051,96.129,95.415,97.37,-0.964,-0.268,0.232,0.478,0.239,0.067,Recta con run 20% · Slider gyro 19% · Sinker 18% · Sweeper 12%
+pitcher_00239,2024,Left,245,89.25,95.396,95.369,101.688,-0.399,-0.94,0.204,0.528,0.172,0.028,Slider gyro 20% · Recta con cut 20% · Curva 15% · Recta con ride 11%
+pitcher_00248,2025,Left,203,82.721,96.116,95.314,96.085,-1.757,-1.43,0.189,0.371,0.294,0.114,Recta con ride 26% · Recta con cut 18% · Curva 16% · Recta con run 16%
+pitcher_00316,2024,Left,200,87.54,95.41,95.302,100.093,-0.184,-0.611,0.286,0.308,0.265,0.026,Slider gyro 22% · Recta con cut 18% · Curva 17% · Sinker 16%
+pitcher_00897,2024,Right,390,88.178,96.085,95.301,100.688,-1.251,-1.204,0.221,0.371,0.153,0.048,Recta con cut 25% · Slider gyro 25% · Sinker 18% · Changeup 10%
+pitcher_00359,2025,Left,458,83.265,95.657,95.287,96.61,-0.691,-2.015,0.175,0.512,0.229,0.048,Sinker 27% · Changeup 15% · Recta con run 12% · Slider gyro 12%
+pitcher_00364,2025,Right,306,85.703,95.722,95.279,98.969,-2.039,-3.161,0.213,0.421,0.302,0.07,Sinker 37% · Changeup 15% · Slurve 15% · Slider gyro 10%
+pitcher_00166,2024,Right,320,81.083,97.456,95.277,94.067,-0.148,0.04,0.186,0.3,0.175,0.014,Slider gyro 36% · Recta con ride 21% · Curva 15% · Recta con run 9%
+pitcher_00139,2024,Left,498,87.359,95.332,95.276,99.924,-0.864,-1.37,0.257,0.465,0.241,0.058,Recta con ride 24% · Recta con run 21% · Curva 15% · Slurve 14%
+pitcher_00169,2025,Left,287,81.92,95.451,95.223,95.309,-2.096,-0.834,0.153,0.466,0.246,0.017,Sinker 46% · Recta con run 19% · Changeup 11% · Recta con ride 8%
+pitcher_00200,2024,Right,290,84.426,96.03,95.204,97.187,-1.551,-2.205,0.232,0.433,0.255,0.033,Recta con ride 28% · Recta con run 20% · Curva 18% · Slurve 13%
+pitcher_00359,2026,Left,212,85.372,95.605,95.152,98.345,-0.43,-1.972,0.186,0.725,0.275,0.025,Sinker 38% · Recta con run 12% · Recta con ride 10% · Changeup 9%
+pitcher_00217,2025,Left,211,85.117,95.064,95.147,98.402,-2.311,-3.34,0.188,0.366,0.22,0.049,Recta con ride 18% · Recta con cut 17% · Slider gyro 17% · Sinker 17%
+pitcher_00855,2026,Right,223,85.756,94.379,95.142,98.712,-0.791,-0.306,0.151,0.432,0.125,0.023,Sinker 33% · Recta con run 22% · Recta con ride 18% · Sweeper 11%
+pitcher_00604,2025,Right,440,84.015,97.407,95.072,97.336,-2.378,-1.929,0.238,0.375,0.304,0.062,Slider gyro 34% · Sinker 16% · Recta con cut 13% · Recta con run 10%
+pitcher_00464,2026,Right,426,82.777,95.922,95.065,95.873,-1.311,-0.174,0.202,0.365,0.324,0.068,Sinker 35% · Recta con run 23% · Changeup 12% · Sweeper 10%
+pitcher_00445,2024,Right,313,80.977,96.171,95.044,93.968,-0.904,-1.354,0.147,0.448,0.258,0.075,Recta con run 28% · Sinker 26% · Curva 19% · Recta con ride 17%
+pitcher_00139,2025,Left,254,84.327,95.178,95.01,97.638,-0.488,-0.46,0.161,0.681,0.244,0.021,Recta con run 31% · Recta con ride 30% · Curva 13% · Recta con cut 8%
+pitcher_00972,2025,Left,204,85.499,95.744,94.827,98.772,-2.084,-1.835,0.195,0.45,0.297,0.05,Sinker 49% · Changeup 16% · Curva 14% · Slurve 10%
+pitcher_01028,2026,Left,264,78.434,96.26,94.727,91.734,-0.267,0.279,0.242,0.378,0.222,0.044,Recta con ride 26% · Recta con run 20% · Sinker 16% · Sweeper 11%
+pitcher_01092,2026,Right,206,88.711,94.6,94.667,101.528,-2.017,-0.897,0.241,0.444,0.257,0.083,Slider gyro 32% · Recta con ride 18% · Recta con run 13% · Changeup 13%
+pitcher_01129,2024,Right,270,84.24,94.85,94.642,97.013,-0.139,0.341,0.29,0.386,0.189,0.0,Recta con run 26% · Recta con ride 23% · Slider gyro 12% · Sinker 11%
+pitcher_00168,2024,Left,273,84.857,94.3,94.583,97.589,-0.456,0.319,0.252,0.447,0.209,0.043,Sinker 44% · Changeup 23% · Slurve 14% · Sweeper 10%
+pitcher_00663,2026,Right,287,84.9,95.49,94.516,97.896,0.262,1.158,0.236,0.364,0.227,0.045,Sinker 28% · Recta con run 26% · Changeup 21% · Recta con ride 10%
+pitcher_00935,2025,Left,280,82.852,95.581,94.398,96.211,-1.681,-2.213,0.226,0.619,0.306,0.032,Changeup 43% · Slider gyro 31% · Slurve 12% · Sweeper 9%
+pitcher_00522,2024,Right,456,84.775,95.105,94.383,97.512,-1.328,-1.546,0.158,0.364,0.165,0.045,Recta con run 26% · Sinker 25% · Slider gyro 20% · Recta con ride 9%
+pitcher_00379,2024,Right,213,83.867,94.507,94.285,96.665,-0.659,-1.795,0.244,0.395,0.235,0.079,Sinker 63% · Changeup 13% · Slider gyro 7% · Sweeper 5%
+pitcher_00446,2025,Left,366,86.303,94.703,94.259,99.55,-0.653,-1.193,0.215,0.525,0.311,0.098,Recta con ride 30% · Recta con cut 27% · Slider gyro 14% · Sweeper 10%
+pitcher_00801,2025,Right,295,82.949,95.23,94.253,96.305,-2.067,-2.148,0.211,0.556,0.25,0.074,Recta con cut 31% · Slurve 17% · Slider gyro 14% · Sweeper 9%
+pitcher_01012,2025,Left,643,83.367,95.679,94.248,96.709,-1.479,-1.474,0.197,0.434,0.315,0.062,Changeup 24% · Sinker 23% · Slider gyro 23% · Sweeper 13%
+pitcher_00277,2025,Right,213,80.9,95.418,94.008,94.323,-1.853,-3.855,0.119,0.409,0.159,0.045,Sinker 45% · Slider gyro 15% · Recta con run 10% · Sweeper 8%
+pitcher_00932,2026,Right,317,75.421,95.656,93.961,88.862,-3.278,-2.385,0.174,0.324,0.319,0.07,Curva 19% · Recta con ride 18% · Sinker 15% · Recta con run 12%
+pitcher_00391,2024,Right,205,82.157,94.244,93.708,95.069,-2.393,-1.946,0.287,0.455,0.25,0.091,Sinker 29% · Slider gyro 20% · Changeup 15% · Recta con cut 15%

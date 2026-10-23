@@ -1,0 +1,125 @@
+{
+  "Medium Altitude": {
+    "rho_rel_pred": 0.8723618090452261,
+    "break_ratio_obs": 0.811,
+    "speeddrop_ratio_obs": 0.895,
+    "relspeed_delta": 0.152,
+    "spin_delta": 21.2,
+    "implied_altitude_m": 2179.0
+  },
+  "Extreme Altitude": {
+    "rho_rel_pred": 0.8060301507537689,
+    "break_ratio_obs": 0.742,
+    "speeddrop_ratio_obs": 0.838,
+    "relspeed_delta": 0.22,
+    "spin_delta": 2.7,
+    "implied_altitude_m": 3050.0
+  },
+  "outcomes": {
+    "No Altitude": {
+      "pitches": 291419,
+      "swing": 0.472,
+      "whiff_per_swing": 0.2483,
+      "called_strike": 0.1584,
+      "chase": 0.2271,
+      "hr_per_pitch": 0.0065,
+      "bip": 51852,
+      "hr_per_bip": 0.0365,
+      "gb": 0.4045,
+      "hard": 0.224,
+      "barrel": 0.0269,
+      "ev": 83.0322,
+      "weak": 0.399,
+      "fb_dist": 291.8354,
+      "hr_per_fb": 0.1238,
+      "fb_ev": 85.0438
+    },
+    "Medium Altitude": {
+      "pitches": 154112,
+      "swing": 0.4682,
+      "whiff_per_swing": 0.2401,
+      "called_strike": 0.1501,
+      "chase": 0.2196,
+      "hr_per_pitch": 0.0078,
+      "bip": 28372,
+      "hr_per_bip": 0.0424,
+      "gb": 0.4269,
+      "hard": 0.2623,
+      "barrel": 0.0313,
+      "ev": 84.5742,
+      "weak": 0.3623,
+      "fb_dist": 316.3393,
+      "hr_per_fb": 0.1585,
+      "fb_ev": 85.8908
+    },
+    "Extreme Altitude": {
+      "pitches": 180119,
+      "swing": 0.4675,
+      "whiff_per_swing": 0.2312,
+      "called_strike": 0.1506,
+      "chase": 0.2174,
+      "hr_per_pitch": 0.0081,
+      "bip": 34167,
+      "hr_per_bip": 0.0426,
+      "gb": 0.4477,
+      "hard": 0.2589,
+      "barrel": 0.0289,
+      "ev": 84.0142,
+      "weak": 0.3772,
+      "fb_dist": 322.7835,
+      "hr_per_fb": 0.163,
+      "fb_ev": 85.2775
+    }
+  },
+  "fb_distance_controlled": {
+    "No Altitude": {
+      "mean": 354.5,
+      "count": 4508,
+      "std": 31.7,
+      "se": 0.5
+    },
+    "Medium Altitude": {
+      "mean": 375.0,
+      "count": 2557,
+      "std": 35.1,
+      "se": 0.7
+    },
+    "Extreme Altitude": {
+      "mean": 384.0,
+      "count": 2969,
+      "std": 36.8,
+      "se": 0.7
+    }
+  },
+  "hr_rate_controlled_95_110_20_40": {
+    "No Altitude": {
+      "mean": 0.4531,
+      "count": 3059
+    },
+    "Medium Altitude": {
+      "mean": 0.4817,
+      "count": 1856
+    },
+    "Extreme Altitude": {
+      "mean": 0.5354,
+      "count": 2103
+    }
+  },
+  "H3_gb_corr": {
+    "No Altitude": {
+      "n_pitchers": 267.0,
+      "corr_gb_runs": -0.06,
+      "corr_gb_hr": -0.35
+    },
+    "Medium Altitude": {
+      "n_pitchers": 125.0,
+      "corr_gb_runs": -0.041,
+      "corr_gb_hr": -0.183
+    },
+    "Extreme Altitude": {
+      "n_pitchers": 156.0,
+      "corr_gb_runs": 0.024,
+      "corr_gb_hr": -0.131
+    }
+  }
+}
