@@ -8,7 +8,7 @@ Un sistema de evaluación pitch-by-pitch para la LMB que mide la calidad física
 
 | Entregable | Dónde |
 |---|---|
-| Dashboard simulador (interactivo, sin instalación) | [`docs/index.html`](docs/index.html) · versión hosteada: *(pega aquí tu link de GitHub Pages)* |
+| Dashboard simulador (interactivo, sin instalación) | [`docs/index.html`](docs/index.html) · versión hosteada: (https://ariadnapa.github.io/Diablos-Hackathon-2026/) |
 | Reporte técnico | [`docs/reporte_tecnico.pdf`](docs/reporte_tecnico.pdf) · [versión HTML con gráficas interactivas](docs/reporte_tecnico.html) |
 | Scores agregados y resultados | [`outputs/`](outputs/) |
 | Código reproducible | [`src/`](src/) |
